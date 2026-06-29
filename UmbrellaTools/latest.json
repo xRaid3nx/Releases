@@ -1,5 +1,5 @@
 {
-  "version": "4.4.2",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.4.2/UmbrellaTools-Setup-4.4.2.exe",
-  "notes": "Initial update-enabled release."
+  "version": "4.4.4",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.4.4/UmbrellaTools-Setup-4.4.4.exe",
+  "notes": "Updates now have their own page in Settings, with a configurable check frequency and a What's new history."
 }
