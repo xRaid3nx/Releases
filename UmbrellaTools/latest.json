@@ -1,1 +1,5 @@
-https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.4.2/UmbrellaTools-Setup-4.4.2.exe
+{
+  "version": "4.4.2",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.4.2/UmbrellaTools-Setup-4.4.2.exe",
+  "notes": "Initial update-enabled release."
+}
