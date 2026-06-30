@@ -1,5 +1,5 @@
 {
-  "version": "4.4.4",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.4.4/UmbrellaTools-Setup-4.4.4.exe",
-  "notes": "Updates now have their own page in Settings, with a configurable check frequency and a What's new history."
+  "version": "4.5.0",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.5.0/UmbrellaTools-Setup-4.5.0.exe",
+  "notes": "Rich Word paste for Salesforce, quick lookup auto-focus, and shared usage stats."
 }
