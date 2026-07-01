@@ -1,5 +1,5 @@
 {
-  "version": "4.5.6",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.5.6/UmbrellaTools-Setup-4.5.6.exe",
-  "notes": "Fixed update checker cache issue; larger splash and wider quick lookup."
+  "version": "4.5.7",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.5.7/UmbrellaTools-Setup-4.5.7.exe",
+  "notes": "Wider quick lookup, larger splash frame, and simplified tray About label."
 }
