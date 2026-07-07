@@ -1,5 +1,5 @@
 {
-  "version": "4.5.8",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.5.8/UmbrellaTools-Setup-4.5.8.exe",
-  "notes": "Graph stats dashboard mode, changelog expand, Simple/Advanced/Graph selector."
+  "version": "4.5.9",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.5.9/UmbrellaTools-Setup-4.5.9.exe",
+  "notes": "Graph mode chart clipping fix and top shortcuts donut chart."
 }
