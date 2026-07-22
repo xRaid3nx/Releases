@@ -1,5 +1,5 @@
 {
-  "version": "4.6.12",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.12/UmbrellaTools-Setup-4.6.12.exe",
-  "notes": "Pulse bubble colors follow % of target: red under 70%, yellow 70-90%, green 90-100%, cyan over 100%."
+  "version": "4.6.13",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.13/UmbrellaTools-Setup-4.6.13.exe",
+  "notes": "Pulse bubble: left strip pauses/resumes; rest is +1. Optional pause hotkey (blank by default)."
 }
