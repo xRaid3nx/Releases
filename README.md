@@ -4,8 +4,8 @@ Public installers and update manifests for RAID3N apps.
 
 ## Umbrella Tools
 
-- Latest: **4.6.14**
-- Installer: [UmbrellaTools-Setup-4.6.14.exe](https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.14/UmbrellaTools-Setup-4.6.14.exe)
+- Latest: **4.6.15**
+- Installer: [UmbrellaTools-Setup-4.6.15.exe](https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.15/UmbrellaTools-Setup-4.6.15.exe)
 - Update manifest: [UmbrellaTools/latest.json](UmbrellaTools/latest.json)
 
 ### Modules
@@ -13,7 +13,7 @@ Public installers and update manifests for RAID3N apps.
 | Module | Notes |
 |--------|--------|
 | Text Expander | Always installed |
-| Pulse | Optional — email pace bubble (left strip pause/resume; rest +1) |
+| Pulse | Optional — email pace bubble |
 | Alarms | Optional |
 | Idle Shaker | Optional placeholder |
 
