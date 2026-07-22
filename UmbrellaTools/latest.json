@@ -1,5 +1,5 @@
 {
-  "version": "4.6.11",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.11/UmbrellaTools-Setup-4.6.11.exe",
-  "notes": "Settings cards fill the page; About lists only installed modules (including Pulse)."
+  "version": "4.6.12",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.12/UmbrellaTools-Setup-4.6.12.exe",
+  "notes": "Pulse bubble colors follow % of target: red under 70%, yellow 70-90%, green 90-100%, cyan over 100%."
 }
