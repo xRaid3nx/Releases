@@ -1,5 +1,5 @@
 {
-  "version": "4.6.16",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.16/UmbrellaTools-Setup-4.6.16.exe",
-  "notes": "Pulse bubble taller + default opacity 90%. Settings: Show bubble | Reset at midnight; Target / hr in Pace card."
+  "version": "4.6.17",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.17/UmbrellaTools-Setup-4.6.17.exe",
+  "notes": "Pulse launch force-show @ 90%. Page/settings cleanup: Reset in Session; Bubble/Pace/Hotkeys cards."
 }
