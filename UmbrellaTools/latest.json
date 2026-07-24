@@ -1,5 +1,5 @@
 {
-  "version": "4.6.17",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.17/UmbrellaTools-Setup-4.6.17.exe",
-  "notes": "Pulse launch force-show @ 90%. Page/settings cleanup: Reset in Session; Bubble/Pace/Hotkeys cards."
+  "version": "4.6.18",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.18/UmbrellaTools-Setup-4.6.18.exe",
+  "notes": "Pulse settings: hotkeys side by side; Target card emails/hr only; midnight reset always on."
 }
