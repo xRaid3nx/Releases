@@ -1,5 +1,5 @@
 {
-  "version": "4.6.22",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.22/UmbrellaTools-Setup-4.6.22.exe",
-  "notes": "Pulse bubble: safe count/color animations restored."
+  "version": "4.6.23",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.23/UmbrellaTools-Setup-4.6.23.exe",
+  "notes": "Text Expander: fix intermittent typed shortcuts; better Notepad paste."
 }
