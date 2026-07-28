@@ -1,5 +1,5 @@
 {
-  "version": "4.6.19",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.19/UmbrellaTools-Setup-4.6.19.exe",
-  "notes": "Text Expander: typo/backspace while typing shortcuts; more reliable paste. Pulse bubble count/color animations."
+  "version": "4.6.20",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.20/UmbrellaTools-Setup-4.6.20.exe",
+  "notes": "Pulse: Show bubble from Settings and Pulse page after hiding; Target field left-aligned."
 }
