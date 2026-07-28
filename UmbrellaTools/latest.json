@@ -1,5 +1,5 @@
 {
-  "version": "4.6.18",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.18/UmbrellaTools-Setup-4.6.18.exe",
-  "notes": "Pulse settings: hotkeys side by side; Target card emails/hr only; midnight reset always on."
+  "version": "4.6.19",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.19/UmbrellaTools-Setup-4.6.19.exe",
+  "notes": "Text Expander: typo/backspace while typing shortcuts; more reliable paste. Pulse bubble count/color animations."
 }
