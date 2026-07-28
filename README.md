@@ -4,8 +4,8 @@ Public installers and update manifests for RAID3N apps.
 
 ## Umbrella Tools
 
-- Latest: **4.6.15**
-- Installer: [UmbrellaTools-Setup-4.6.15.exe](https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.15/UmbrellaTools-Setup-4.6.15.exe)
+- Latest: **4.6.19**
+- Installer: [UmbrellaTools-Setup-4.6.19.exe](https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.19/UmbrellaTools-Setup-4.6.19.exe)
 - Update manifest: [UmbrellaTools/latest.json](UmbrellaTools/latest.json)
 
 ### Modules
