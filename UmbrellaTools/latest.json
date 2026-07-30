@@ -1,5 +1,5 @@
 {
-  "version": "4.6.23",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.23/UmbrellaTools-Setup-4.6.23.exe",
-  "notes": "Text Expander: fix intermittent typed shortcuts; better Notepad paste."
+  "version": "4.6.24",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.24/UmbrellaTools-Setup-4.6.24.exe",
+  "notes": "Pulse bubble: DPI-aware sizing for laptop displays."
 }
