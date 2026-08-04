@@ -1,5 +1,5 @@
 {
-  "version": "4.6.24",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.24/UmbrellaTools-Setup-4.6.24.exe",
-  "notes": "Pulse bubble DPI-aware sizing; more reliable typed shortcuts; Show bubble restore."
+  "version": "4.6.25",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.25/UmbrellaTools-Setup-4.6.25.exe",
+  "notes": "Pulse bubble: stickier always-on-top; auto re-show if buried."
 }
