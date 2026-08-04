@@ -1,5 +1,5 @@
 {
-  "version": "4.6.25",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.25/UmbrellaTools-Setup-4.6.25.exe",
-  "notes": "Pulse bubble: stickier always-on-top; auto re-show if buried."
+  "version": "4.6.26",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.26/UmbrellaTools-Setup-4.6.26.exe",
+  "notes": "Pulse bubble larger with last-email hover tip; alarm fire flyout hang fix."
 }
