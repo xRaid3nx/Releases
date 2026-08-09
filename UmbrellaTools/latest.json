@@ -1,5 +1,5 @@
 {
   "version": "4.6.29",
   "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.29/UmbrellaTools-Setup-4.6.29.exe",
-  "notes": "Day plan Start/Skip popup + 5-min warn; Pulse bubble border fix."
+  "notes": "Pulse bubble border fix (hardened); 5-min warn + Start/Skip popup."
 }
