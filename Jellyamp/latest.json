@@ -1,1 +1,1 @@
-{"version":"0.14","versionCode":14,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.14/Jellyamp-0.14.14-release.apk","notes":"Fix YouTube playback: upgrade NewPipe extractor and fall back to muxed/HLS/DASH when audio-only URLs are unavailable."}
+{"version":"0.15","versionCode":15,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.15/Jellyamp-0.15.15-release.apk","notes":"YouTube search polish: collapsible sections, play spinner, durations, clearer errors, and cleaner Now Playing for YouTube tracks."}
