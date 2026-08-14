@@ -1,1 +1,1 @@
-{"version":"0.13","versionCode":13,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.13/Jellyamp-0.13.13-release.apk","notes":"YouTube in search: library results first, then YouTube audio-only playback. Toggle under Settings → Experience."}
+{"version":"0.14","versionCode":14,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.14/Jellyamp-0.14.14-release.apk","notes":"Fix YouTube playback: upgrade NewPipe extractor and fall back to muxed/HLS/DASH when audio-only URLs are unavailable."}
