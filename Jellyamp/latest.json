@@ -1,1 +1,1 @@
-{"version":"0.30","versionCode":30,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.30/Jellyamp-0.30.30-release.apk","notes":"Rebuilt visualizer: per-band AGC, log FFT, independent bass/mid motion."}
+{"version":"0.31","versionCode":31,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.31/Jellyamp-0.31.31-release.apk","notes":"Fix visualizer: correct sample rate (milliHz) so bass/mid use real bins; stop bars pegging to the top."}
