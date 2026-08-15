@@ -1,1 +1,1 @@
-{"version":"0.18","versionCode":18,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.18/Jellyamp-0.18.18-release.apk","notes":"Fix visualizer levels. Cleaner Settings sections. Waveform-based capture."}
+{"version":"0.19","versionCode":19,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.19/Jellyamp-0.19.19-release.apk","notes":"Fix in-app updates ignoring stale CDN cache. Includes 0.18 visualizer + Settings cleanup."}
