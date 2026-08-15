@@ -1,1 +1,1 @@
-{"version":"0.20","versionCode":20,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.20/Jellyamp-0.20.20-release.apk","notes":"Fix update checks: use GitHub API + newest CDN result. Install once via link if Check still lags."}
+{"version":"0.20","versionCode":20,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.20/Jellyamp-0.20.20-release.apk","notes":"Lower visualizer sensitivity so bars don\u0027t max out as easily on normal tracks."}
