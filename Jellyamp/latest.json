@@ -1,1 +1,1 @@
-{"version":"0.32","versionCode":32,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.32/Jellyamp-0.32.32-release.apk","notes":"Visualizer rebuild: spectrum from waveform (Goertzel), not flat device FFT."}
+{"version":"0.33","versionCode":32,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.33/Jellyamp-0.33.32-release.apk","notes":"Fix Chromecast crashes when casting YouTube or stopping cast."}
