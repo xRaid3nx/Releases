@@ -1,1 +1,1 @@
-{"version":"0.27","versionCode":27,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.27/Jellyamp-0.27.27-release.apk","notes":"Tone down FFT visualizer sensitivity so bars aren\u0027t stuck at max."}
+{"version":"0.28","versionCode":28,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.28/Jellyamp-0.28.28-release.apk","notes":"Rebuild visualizer from scratch: independent FFT bands with absolute dB scaling."}
