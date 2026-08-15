@@ -1,1 +1,1 @@
-{"version":"0.31","versionCode":31,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.31/Jellyamp-0.31.31-release.apk","notes":"Fix visualizer: correct sample rate (milliHz) so bass/mid use real bins; stop bars pegging to the top."}
+{"version":"0.32","versionCode":32,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.32/Jellyamp-0.32.32-release.apk","notes":"Visualizer rebuild: spectrum from waveform (Goertzel), not flat device FFT."}
