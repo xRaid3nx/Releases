@@ -1,1 +1,1 @@
-{"version":"0.19","versionCode":19,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.19/Jellyamp-0.19.19-release.apk","notes":"Fix in-app updates ignoring stale CDN cache. Includes 0.18 visualizer + Settings cleanup."}
+{"version":"0.20","versionCode":20,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.20/Jellyamp-0.20.20-release.apk","notes":"Fix update checks: use GitHub API + newest CDN result. Install once via link if Check still lags."}
