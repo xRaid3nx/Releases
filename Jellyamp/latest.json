@@ -1,1 +1,1 @@
-{"version":"0.43","versionCode":42,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.43/Jellyamp-0.43.42-release.apk","notes":"Fix Now Playing crash when visualizer is on (illegal negative padding)."}
+{"version":"0.44","versionCode":43,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.44/Jellyamp-0.44.43-release.apk","notes":"Tone down visualizer: lower height, calmer motion, less fill."}
