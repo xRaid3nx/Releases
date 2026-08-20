@@ -1,1 +1,1 @@
-{"version":"0.73","versionCode":72,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.73/Jellyamp-0.73.72-release.apk","notes":"Gapless playback: preload next track for seamless album/playlist transitions. Toggle in Settings → Playback. Core baseline remains 0.72 (jellyamp-core)."}
+{"version":"0.74","versionCode":73,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.74/Jellyamp-0.74.73-release.apk","notes":"Faster artwork search (parallel sources). Crossfade toggle in Settings → Playback (soft volume blend, local only)."}
