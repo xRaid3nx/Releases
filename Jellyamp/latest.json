@@ -1,1 +1,1 @@
-{"version":"0.69","versionCode":68,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.69/Jellyamp-0.69.68-release.apk","notes":"Remove Google Image Search. Artwork uses free public APIs only; improved MusicBrainz release-group cover lookups."}
+{"version":"0.70","versionCode":69,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.70/Jellyamp-0.70.69-release.apk","notes":"Remove track and album artwork from the art picker; clears it on Jellyfin."}
