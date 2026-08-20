@@ -1,1 +1,1 @@
-{"version":"0.72","versionCode":71,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.72/Jellyamp-0.72.71-release.apk","notes":"Artwork fill status clears when you leave the Artwork page; no more stale last-run message."}
+{"version":"0.73","versionCode":72,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.73/Jellyamp-0.73.72-release.apk","notes":"Gapless playback: preload next track for seamless album/playlist transitions. Toggle in Settings → Playback. Core baseline remains 0.72 (jellyamp-core)."}
