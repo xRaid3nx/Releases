@@ -1,1 +1,1 @@
-{"version":"0.68","versionCode":67,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.68/Jellyamp-0.68.67-release.apk","notes":"Google Image Search results show first when an API key is configured. Better queries for tracks, albums, and artist photos."}
+{"version":"0.69","versionCode":68,"url":"https://github.com/xRaid3nx/Releases/releases/download/jellyamp-v0.69/Jellyamp-0.69.68-release.apk","notes":"Remove Google Image Search. Artwork uses free public APIs only; improved MusicBrainz release-group cover lookups."}
