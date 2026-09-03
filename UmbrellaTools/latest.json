@@ -1,5 +1,5 @@
 {
-  "version": "4.6.29",
-  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.29/UmbrellaTools-Setup-4.6.29.exe",
-  "notes": "Pulse bubble Win10 border fix; day plan Start/Skip + 5-min warn."
+  "version": "4.6.30",
+  "url": "https://github.com/xRaid3nx/Releases/releases/download/umbrellatools-v4.6.30/UmbrellaTools-Setup-4.6.30.exe",
+  "notes": "Day-plan chips (no focus steal) + Word www/https hyperlinks on paste."
 }
