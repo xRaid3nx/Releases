@@ -18,3 +18,9 @@ Public installers and update manifests for RAID3N apps.
 | Idle Shaker | Optional placeholder |
 
 On app updates, use **Change modules…** in the installer if you want to add or remove modules. **Settings → About** only shows help for installed modules.
+
+## Hayaati
+
+- Latest: **0.0.1**
+- Installer: [Hayaati-Setup-0.0.1.exe](https://github.com/xRaid3nx/Releases/releases/download/hayaati-v0.0.1/Hayaati-Setup-0.0.1.exe)
+- Update manifest: [Hayaati/latest.json](Hayaati/latest.json)
