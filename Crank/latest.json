@@ -1,1 +1,1 @@
-{"version":"0.1.23","versionCode":25,"url":"https://github.com/xRaid3nx/Releases/releases/download/crank-v0.1.23/Crank-0.1.23.25-release.apk","notes":"Long-press a service log to see km and time since then, plus since the previous same-type service."}
+{"version":"0.1.24","versionCode":26,"url":"https://github.com/xRaid3nx/Releases/releases/download/crank-v0.1.24/Crank-0.1.24.26-release.apk","notes":"Smarter long-press insight: match prior services by description (not type), show up to 2 matches, tap to open."}
