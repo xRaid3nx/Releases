@@ -1,1 +1,1 @@
-{"url":"https://github.com/xRaid3nx/Releases/releases/download/ontask-mobile-v1.0.1/OnTask.Mobile-1.0.1.4-release.apk","versionCode":4,"version":"1.0.1","notes":"Fix photo preview buttons cut off by system nav bar; restore multi-select/delete/updates"}
+{"url":"https://github.com/xRaid3nx/Releases/releases/download/ontask-mobile-v1.0.1/OnTask.Mobile-1.0.1.5-release.apk","versionCode":5,"version":"1.0.1","notes":"Photo preview buttons respect system nav insets"}
